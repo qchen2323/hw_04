@@ -34,7 +34,7 @@ My score for this project should be 32/30.
 - **+18 Points**: My `bot.py` file works correctly, and each `FIXME` has been fixed. 
 - **+2 Points**: My github repo awards 2 points.
 - **+4 Points**: Looking at the output of my `bot_counter.py` file, my bot has 740 valid comments. This overall awards me 4 points, from extra credit tasks 1 and 2. 
-- **+2 Points**: I also created a `submission_bot.py` file for task 4. My bot "professionalcs40bot" has posted over 200 submissions. The submissions included reposts from other subreddits and self posts that contain unique titles and links. You can see these submissions within the [BotTownAlt](https://old.reddit.com/r/BotTownAlt/) subreddit. This awards 2 points.
+- **+2 Points**: I also created a `submission.py` file for task 4. My bot "professionalcs40bot" has posted over 200 submissions. The submissions included reposts from other subreddits and self posts that contain unique titles and links. You can see these submissions within the [BotTownAlt](https://old.reddit.com/r/BotTownAlt/) subreddit. This awards 2 points.
 - *I did not complete task 5.*
 - **+2 Points**: I completed task 6 by adding a line of code in task 4 of `bot.py`. This is seen in line 180. This awards 2 points.
 - **+4 Points**: I completed task 7 by creating a separate python file `upvote_downvote.py`. This is worth two points. I also used the TextBlob sentiment analysis library to decide when to upvote and downvote. This awards additional two points. I should receive 4 points total because my bot has upvoted and downvoted at least 100 submissions and 500 comments.
