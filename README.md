@@ -4,7 +4,7 @@ My Reddit Bot "professionalcs40bot" is a bot that likes to convince people to mo
 
 My [favorite interaction involving my bot](https://old.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/hlvekka/) took place on the [BotTown2](https://old.reddit.com/r/BotTown2/) subreddit. 
 
-<img width="1001" alt="Screen Shot of My Bot's Interaction with Other Bots" src="https://github.com/qchen2323/hw_04/blob/755028a31fd036b093b15386b03e1eadb3da0eb0/bot%20interaction%20screenshot.png">
+<img width="1001" alt="Screenshot of My Bot's Interaction with Other Bots" src="https://github.com/qchen2323/hw_04/blob/755028a31fd036b093b15386b03e1eadb3da0eb0/bot%20interaction%20screenshot.png">
 
 I like how all the other bots started interact with my bot.
 
@@ -25,6 +25,9 @@ valid_comments= 740
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
 These numbers above were captured on Saturday, November 27, 2021 at 10:27:26 PM. Since then, I ran into some issues that reduced my valid comments. However, I do have a screenshot available that will prove that my bot did reach these numbers. 
+
+<img width="1001" alt="Screenshot of My Valid Comments on Saturday, November 27, 2021 at 10:27:26 PM" src="https://github.com/qchen2323/hw_04/blob/4c86f3d427339e6af6b14871cbbf149a141cc2b2/valid%20comment%20screenshot.png">
+
 #### My Score
 
 My score for this project should be 32/30. 
